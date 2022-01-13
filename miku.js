@@ -20,9 +20,9 @@ const { getBuffer, getGroupAdmins, getRandom } = require('./lib/myfunc')
 
 //●●●●●●●●●●●●●●●●●●●●●● SETTING ●●●●●●●●●●●●●●●●●●●●●●                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               //BASE ORI BY KUNZXD🐦        
 
-botName = 'MIKU BOT'
-ownerName = 'KxD' 
-ownerNumber = '6287778886786'
+botName = 'ツˣᴿᶻズガx BOT'
+ownerName = 'Xrzz' 
+ownerNumber = '6283830815715'
 faketeks = '𝙺𝚄𝙽𝚉𝙱𝙾𝚃𝚉︎'
 publics = true
 mypp = fs.readFileSync('thumbnail.jpg') // thumbnailnya
